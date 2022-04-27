@@ -1,0 +1,7 @@
+.carta{
+    display: flex;
+    justify-content: center;
+}
+.card-body{
+    box-shadow: 0 10px 15px black;
+}
